@@ -1,0 +1,7 @@
+How to run this program?
+
+
+---In the sources directory:
+
+->make
+->make run
