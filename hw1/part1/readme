@@ -1,0 +1,8 @@
+How to run this program?
++This program gets a commanline argument that includes linear equations to solve.
+
+
+---In the sources directory:
+
+->make
+->make run file="input.txt"
